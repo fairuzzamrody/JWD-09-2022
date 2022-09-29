@@ -33,7 +33,7 @@ Lampiran
 <img width="959" alt="Kalkulator" src="https://user-images.githubusercontent.com/61002522/193046239-6cbd5ae9-c240-448b-acc0-79e7fa8fe4fa.png">
 
 - File Prototype ( Figma )
-[Prototype](http://https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2 "Prototype")
+[[Prototype](http://https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2 "Prototype")](https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 - Hasil Implementasi
 [![hasil](Github "hasil")](http://https://github.com/fairuzzamrody/JWD-09-2022/blob/main/img/kalkulatorweb.png "hasil")
