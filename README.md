@@ -10,7 +10,7 @@
 - Webrowser
 
 ## Cara Instalasi
-- Download Aplikasi Kalkulatorku pada salah satu link berikut: -https://github.com/mticanduang/JWD-Kalkulator.git -
+- Download Aplikasi Kalkulatorku pada salah satu link berikut: [Tugas6_FairuzZamrody.zip](https://github.com/fairuzzamrody/JWD-09-2022/files/9675204/Tugas6_FairuzZamrody.zip)
 - Setelah berhasil di download, Ektrack File Kalkulatorku.zip dan pindahkan direktori htdocs
 
 
