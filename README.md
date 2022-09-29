@@ -11,7 +11,7 @@
 
 ## Cara Instalasi
 - Download Aplikasi Kalkulatorku pada salah satu link berikut: [Tugas6_FairuzZamrody.zip](https://github.com/fairuzzamrody/JWD-09-2022/files/9675204/Tugas6_FairuzZamrody.zip)
-- Setelah berhasil di download, Ektrack File Kalkulatorku.zip dan pindahkan direktori htdocs
+- Setelah berhasil di download, Ektrack File Tugas6_FairuzZamrody.zip dan **pindahkan** direktori _htdocs_
 
 
 ## Cara Menjalankan Aplikasi
