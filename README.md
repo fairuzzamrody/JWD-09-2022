@@ -2,7 +2,7 @@
 - Kalukulator sederhana adalah aplikasi untuk menghitung dari perhitungan sederhana seperti (penjumlahan,pengurangan,perkalian dan pembagian)
 
 ## Jenis Aplikasi
-- Aplikasi berbasis web,aplikasi ini sudah berjalan di PHP versi PHP terbaru
+- Aplikasi ini berbasis web, aplikasi ini bisa berjalan di PHP versi terbaru
 
 ## Persyaratan
 - PHP
