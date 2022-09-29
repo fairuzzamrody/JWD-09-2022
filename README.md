@@ -30,8 +30,10 @@ Lampiran
 
 - Gambar Prototype Kalkulator ( Figma )
 
-[![ui](https://drive.google.com/file/d/1c5LJ0969s2ny5s_9H-6uL6qbxA1WWa4R/view?usp=sharing "ui")](http://https://drive.google.com/file/d/1c5LJ0969s2ny5s_9H-6uL6qbxA1WWa4R/view?usp=sharing "ui")
+	[![Prototype](Github "Prototype")](http://https://github.com/fairuzzamrody/JWD-09-2022/blob/main/img/Kalkulator.png "Prototype")
 
 - File Prototype ( Figma )
 [Prototype](http://https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2 "Prototype")
-- 
+
+- Hasil Implementasi
+[![hasil](Github "hasil")](http://https://github.com/fairuzzamrody/JWD-09-2022/blob/main/img/kalkulatorweb.png "hasil")
