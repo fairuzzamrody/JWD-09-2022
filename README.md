@@ -36,4 +36,4 @@ Lampiran
 [[Prototype](http://https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2 "Prototype")](https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 - Hasil Implementasi
-[![hasil](Github "hasil")](http://https://github.com/fairuzzamrody/JWD-09-2022/blob/main/img/kalkulatorweb.png "hasil")
+<img width="945" alt="kalkulatorweb" src="https://user-images.githubusercontent.com/61002522/193046756-46dc14b6-d50e-4cb7-9cb4-5f92f5b84914.png">
