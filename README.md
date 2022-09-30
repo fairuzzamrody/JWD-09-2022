@@ -39,7 +39,7 @@ https://www.figma.com/proto/JruKj4qJpQ8DZs5kNADGtX/tugas6-ui-kalkulator?node-id=
 
 - Gambar Prototype Kalkulator ( Figma )
 
-<img width="960" alt="Kalkulator1" src="https://user-images.githubusercontent.com/61002522/193242133-84e87593-9a5b-419f-bee7-c8071fdcbd44.png">
+<img width="960" alt="Kalkulator1" src="https://user-images.githubusercontent.com/61002522/193242382-e6f6f8d1-a2aa-4436-9ec6-eca0a45b74ec.png">
 
 
 
