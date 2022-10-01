@@ -1,4 +1,4 @@
-<h1> Tugas 7 VSGA JWD 2022 </h1>
+<h1> Tugas 7 VSGA JWD 2022 - Fairuz Zamrody </h1>
 
 ## ✨ Deskripsi Project
 - Kalukulator sederhana adalah aplikasi untuk menghitung dari perhitungan sederhana seperti (penjumlahan,pengurangan,perkalian dan pembagian)
